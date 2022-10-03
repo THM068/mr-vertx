@@ -5,6 +5,7 @@ plugins {
   java
   application
   id("com.github.johnrengelman.shadow") version "7.0.0"
+  id("io.micronaut.library") version "3.6.2"
 }
 
 group = "com.blog"
